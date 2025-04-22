@@ -1,4 +1,4 @@
-# Hotel_Booking_Analysis-Booking.com-
+# Hotel_Booking_Analysis
 ![Booking.Com_logo](https://github.com/sourav2208/Hotel_Booking_Analysis9-Booking.com-/blob/main/Screenshot%202025-04-22%20114945.png)
 ## Description
 * This project aims to analyze hotel booking data to extract valuable insights regarding customer behavior, booking patterns, cancellations, and other important factors that affect hotel performance. The dataset used for this project is inspired by or similar to Booking.com data.
